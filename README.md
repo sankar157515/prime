@@ -1,0 +1,2 @@
+# prime
+program in c
